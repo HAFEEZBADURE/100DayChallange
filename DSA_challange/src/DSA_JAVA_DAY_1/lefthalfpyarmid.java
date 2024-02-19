@@ -8,6 +8,5 @@ public class lefthalfpyarmid {
 		System.out.println("      * * *");
 		System.out.println("  * * * * *");
 		System.out.println("* * * * * *");
-
 	}
 }

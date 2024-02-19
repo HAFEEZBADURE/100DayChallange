@@ -128,4 +128,63 @@ to the JVM without needing to instantiate the class.
 • Fixed Signature: The main method has a fixed signature: public static void
 main(String[] args). Deviating from this signature means the JVM won't recognize it
 as the starting point.
-s
+
+## 3.1 What are Variables?
+
+Variables are like containers used for storing data values.
+
+example : int result =10;
+
+int : data types,
+result : variable name;
+= : assignment operator:
+10 : variable values
+
+Data types: data type is a collection or grouping of data values,
+
+1 byte is equal to 8 bit
+
+data types and size
+
+1. Byte - 1 byte
+2. Short - 2 byte
+3. int - 4 byte
+4. long - 8 byte
+5. char - 2 byte
+6. float - 4 byte
+7. double - 8 byte
+8. boolean - 1 byte.
+
+## 3.3. Naming Conventions
+
+camelCase
+• Start with a lowercase letter. Capitalize the first letter of each
+subsequent word.
+• Example: myVariableName
+snake_case
+• Start with an lowercase letter. Separate words with underscore
+• Example: my_variable_name
+Kebab-case
+• All lowercase letters. Separate words with hyphens. Example:
+my-variable-name
+Keep a Good and Short Name
+• Choose names that are descriptive but not too long. It should
+make it easy to understand the variab
+• Example: age, firstName, isMarried
+
+## 3.3. Java Identifier Rules
+
+1. The only allowed characters for identifiers
+   are all alphanumeric characters([A-Z],[a-z],[0-
+   9]), ‘$‘ (dollar sign) and ‘\_‘ (underscore).
+2. Can’t use keywords or reserved words
+3. Identifiers should not start with digits([0-9]).
+4. Java identifiers are case-sensitive.
+5. There is no limit on the length of the identifier but it is advisable to use an optimum length of 4 – 15 letters only.
+
+## 3.8 Type Conversion and Casting
+
+There are 2 tpes
+
+1. implicit - Byte -> short-> int -> long ->float -> double
+2. explicit - Byte <- short <- int <- long <-float <- double
