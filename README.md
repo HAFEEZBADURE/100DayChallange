@@ -188,3 +188,46 @@ There are 2 tpes
 
 1. implicit - Byte -> short-> int -> long ->float -> double
 2. explicit - Byte <- short <- int <- long <-float <- double
+
+## 4. Operators, If-else & Number System
+
+1. Assignment Operator
+2. Arithmetic Operators
+3. Order of Operation
+4. Shorthand Operators
+5. Unary Operators
+6. If-else
+7. Relational Operators
+8. Logical Operators
+9. Operator Precedence
+10. Intro to Number System
+11. Intro to Bitwise Operators
+
+## 4.1 Assignment Operator
+
+Assigns the right-hand operand's value to the left-hand operand.
+Example: int a = 5;
+
+## 4.2 Arithmetic Operators
+
+arithmetic operators are used for mathematical operations on numeric data types.
+
+1. Addition (+):
+2. Subtraction (-):
+3. Multiplication (\*):
+4. Division (/):
+5. Modulus (%):
+
+## 4.3 Order of Operation
+
+BODMAS
+Bracket, Order, divide, mutiple, add ,substract
+9/3\*2/6
+PEMDAS
+Parentheses , exponents, multiply, Divide, Add, Substract
+
+8-5+7-1
+
+## 4.5 Unary Operators
+
+Minus, Pre Increment , pre descrement, post increment, post decrement
