@@ -244,3 +244,47 @@ Minus, Pre Increment , pre descrement, post increment, post decrement
    statements.
 
 ## 4.7 Relational Operators
+
+Equality
+• == Checks value equality.
+Inequality
+• != Checks value inequality.
+Relational
+• > Greater than.
+• < Less than.
+• >= Greater than or equal to.
+• <= Less than or equal to.
+Order of Relational operators is less than arithmetic operators
+
+## 4.8 Logical Operators
+
+1. Types: && (AND), || (OR), ! (NOT)
+2. AND (&&): All conditions must be true for the result to be true.
+3. OR (||): Only one condition must be true for the result to be true.
+4. NOT (!): Inverts the Boolean value of a condition.
+5. Lower Priority than Math and Comparison operators
+
+## 5.1 Java Comment.
+
+1. Used to add notes in Java code
+2. Not displayed on the web page
+3. Helpful for code organization
+4. Syntax:
+   1. Single Line:
+   2. Multi Line:
+   3. Java Docs:
+
+## 5.2 What is a Loop?
+1. Code that runs multiple times based on a
+condition.
+2. Repeated execution of code.
+3. Loops automate repetitive tasks.
+4. Types of Loops: while, for, while, do-while.
+5. Iterations: Number of times the loop runs.
+
+## 5.2 While Loop
+1. Iterations: Number of times the loop runs.
+2. Used for non-standard conditions.
+3. Repeating a block of code while a condition is true.
+4. Remember: Always include an update to avoid infinite loops.
+
