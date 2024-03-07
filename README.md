@@ -275,16 +275,27 @@ Order of Relational operators is less than arithmetic operators
    3. Java Docs:
 
 ## 5.2 What is a Loop?
+
 1. Code that runs multiple times based on a
-condition.
+   condition.
 2. Repeated execution of code.
 3. Loops automate repetitive tasks.
 4. Types of Loops: while, for, while, do-while.
 5. Iterations: Number of times the loop runs.
 
 ## 5.2 While Loop
+
 1. Iterations: Number of times the loop runs.
 2. Used for non-standard conditions.
 3. Repeating a block of code while a condition is true.
 4. Remember: Always include an update to avoid infinite loops.
 
+## 5.3 what are functions
+Definition: Blocks of reusable code.
+2. DRY Principle: "Don't Repeat Yourself" it Encourages code
+reusability.
+3. Usage: Organizes code and performs specific tasks.
+4. Naming Rules: Same as variable names: camelCase
+5. Example: ”Beta Gas band kar de"
+
+## 5.3 Method Syntax
